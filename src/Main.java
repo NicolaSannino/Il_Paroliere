@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Ciao raga, sium lo fkomo!");
         System.out.print("messi messi messi, ancara messi");
         System.out.print("palo palo palo");
+        System.out.print("ciao");
     }
     
 }

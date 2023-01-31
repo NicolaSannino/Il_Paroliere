@@ -1,0 +1,26 @@
+Index: src/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class Main {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello world!\");\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Main.java b/src/Main.java
+--- a/src/Main.java	
++++ b/src/Main.java	
+@@ -1,5 +1,12 @@
+ public class Main {
+     public static void main(String[] args) {
+-        System.out.println("Hello world!");
++        System.out.println("Ciao raga, sium lo fkomo!");
++        System.out.print("messi messi messi, ancara messi");
++        System.out.print("palo palo palo");
+     }
+-}
+\ No newline at end of file
++    
++}
++
++
++
++
